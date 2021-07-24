@@ -75,7 +75,7 @@ plt.show()
 netflix_df = pd.read_csv("datasets/netflix_data.csv") 
 
 # Print the first five rows of the DataFrame
-netflix_df[:5]
+netflix_df[0:5]
 
 
 # ## 5. Filtering for movies!
@@ -179,7 +179,7 @@ plt.xlabel("Release year")
 plt.ylabel("Release year")
 
 # Show the plot
-...
+plt.show()
 
 
 # ## 10. What next?
@@ -191,5 +191,4 @@ plt.ylabel("Release year")
 
 
 # Are we certain that movies are getting shorter?
-are_movies_getting_shorter = ...
-
+are_movies_getting_shorter = "maybe"
