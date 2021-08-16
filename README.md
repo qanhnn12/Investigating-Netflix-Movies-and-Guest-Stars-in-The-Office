@@ -13,7 +13,7 @@ Through this project, I’ll also gain experience in an essential data science s
 
 *Dig into a real-world Netflix movie dataset using everything from lists and loops to pandas and matplotlib.*
 
-**Project tasks**
+#### Project tasks
 1. Loading your friend's data into a dictionary
 2. Creating a DataFrame from a dictionary
 3. A visual inspection of our data
@@ -28,7 +28,7 @@ Through this project, I’ll also gain experience in an essential data science s
 
 ### [Unguided project](https://github.com/qanhnn12/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/tree/main/unguided_project)
 
-**Project task**
+#### Project task
 1. Create a matplotlib scatter plot of the data that contains the following attributes:
 - Each episode's episode number plotted along the x-axis
 - Each episode's viewership (in millions) plotted along the y-axis
@@ -41,4 +41,4 @@ Through this project, I’ll also gain experience in an essential data science s
 - A title, reading "Popularity, Quality, and Guest Appearances on the Office"
 - An x-axis label reading "Episode Number"
 - A y-axis label reading "Viewership (Millions)"
-2. Provide the name of one of the guest stars (hint, there were multiple!) who was in the most watched Office episode. Save it as a string in the variable top_star (e.g. top_star = "Will Ferrell").
+2. Provide the name of one of the guest stars (hint, there were multiple!) who was in the most watched Office episode.
