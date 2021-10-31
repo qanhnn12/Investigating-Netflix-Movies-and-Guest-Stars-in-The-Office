@@ -6,7 +6,7 @@
 ## 🛠️ Description
 In these projects, I’ll apply the skills I learned in Introduction to Python and Intermediate Python to solve a real-world data science problem. I’ll press “watch next episode” to discover if Netflix’s movies are getting shorter over time and which guest stars appear in the most popular episode of "The Office", using everything from lists and loops to pandas and matplotlib.
 
-Through this project, I’ll also gain experience in an essential data science skill — exploratory data analysis, which allows me to perform critical tasks such as manipulating raw data and drawing conclusions from plots I create of the data.
+This project helps me gain experience in an essential data science skill — exploratory data analysis, which allows me to perform critical tasks such as manipulating raw data and drawing conclusions from plots I create of the data.
 
 ## 📺 Projects
 ### [Guided project](https://github.com/qanhnn12/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/tree/main/guided_project)
@@ -14,7 +14,7 @@ Through this project, I’ll also gain experience in an essential data science s
 *Dig into a real-world Netflix movie dataset using everything from lists and loops to pandas and matplotlib.*
 
 #### Project tasks
-1. Loading your friend's data into a dictionary
+1. Loading a friend's data into a dictionary
 2. Creating a DataFrame from a dictionary
 3. A visual inspection of our data
 4. Loading the rest of the data from a CSV
